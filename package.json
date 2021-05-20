@@ -1,0 +1,29 @@
+{
+  "name": "discord-bot-master",
+  "version": "3.0.2",
+  "description": "Hey !",
+  "main": "index.js",
+  "dependencies": {
+    "abort-controller": "^3.0.0",
+    "delayed-stream": "^1.0.0",
+    "asynckit": "^0.4.0",
+    "combined-stream": "^1.0.8",
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security",
+    "event-target-shim": "^5.0.1",
+    "mime-types": "^2.1.26",
+    "mime-db": "^1.43.0",
+    "node-fetch": "^2.6.1",
+    "prism-media": "^1.2.9",
+    "tweetnacl": "^1.0.3",
+    "setimmediate": "^1.0.5",
+    "ws": "^7.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wxcs.",
+  "license": "ISC"
+}
